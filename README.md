@@ -1,6 +1,6 @@
 # JJs-Unciv-Tweaks
 
-A mod for the great UNCIV game. Aiming to get rid of some issues in terms of balance and logic. (Thanks to "Zoltan" for inspiration)
+A mod for the great UNCIV game. Aiming to get rid of some issues in terms of balance and logic (thanks to "Zoltan" for inspiration). Replaces the "units.json".
 
  * Crossbowman unit type is too strong in close combat: strength lowered 13 - 2 = 11
  * Swordsman unit type is rather in-efficient. To make it useful: strenght increased 14 + 1 = 15 (legion: 18)
